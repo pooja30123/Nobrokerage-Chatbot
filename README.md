@@ -46,6 +46,6 @@ User Query → Query Parser → Filter Extraction → Data Search → AI Summary
 - Google Gemini (AI summarization)
 - Python-dotenv (configuration)
 
-Live Demo: [https://pooja30123-nobrokerage-chatbot-streamlit-app-uxn5rs.streamlit.app/](https://pooja30123-nobrokerage-chatbot-streamlit-app-uxn5rs.streamlit.app/)
+Live Demo: [https://nobrokerage-chatbot-f6zjwjn4jtgx2vysqndyfx.streamlit.app/](https://nobrokerage-chatbot-f6zjwjn4jtgx2vysqndyfx.streamlit.app/)
 
 Deployed on Streamlit Community Cloud with zero configuration.
