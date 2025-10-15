@@ -1,0 +1,12 @@
+# Data Processing (Python 3.12 compatible)
+pandas>=2.2.0
+numpy>=1.26.0
+
+# AI/LLM - Google Gemini (FREE)
+google-generativeai
+
+# Web Framework
+streamlit
+
+# Utilities
+python-dotenv
